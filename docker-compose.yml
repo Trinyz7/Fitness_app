@@ -28,7 +28,7 @@ services:
   pgadmin:
     image: dpage/pgadmin4
     environment:
-      PGADMIN_DEFAULT_EMAIL: admin@strongman.com  # Email de connexion à pgAdmin
+      PGADMIN_DEFAULT_EMAIL: admin@armstrong.com  # Email de connexion à pgAdmin
       PGADMIN_DEFAULT_PASSWORD: password        # Mot de passe de connexion à pgAdmin
     ports:
       - "5050:80"  # Expose pgAdmin sur le port 5050
