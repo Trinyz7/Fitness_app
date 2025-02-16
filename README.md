@@ -10,6 +10,7 @@
 ## 2️⃣ Cloner le projet  
 
 git clone https://github.com/Trinyz7/Fitness_app.git
+
 cd nom-du-projet
 
 ---
@@ -38,12 +39,9 @@ docker ps
 ## 4️⃣ Accéder au projet
 L’API 👉 http://localhost:3000
 
-
 pgAdmin (interface pour PostgreSQL) 👉 http://localhost:5050
 
-
 Email : admin@armstrong.com
-
 
 Mot de passe : password
 
